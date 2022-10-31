@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OSGOLive</string>
+    <!-- <string moduleConfig="true" name="CodePushDeploymentKey">F75ZORyIIRXM_LQK-55HjZ9A2s4aqvdIrPWM1</string> -->
+    <string moduleConfig="true" name="CodePushDeploymentKey">JXGtzFOgLlTgr0gKzbOvNVJL9xuZ8ZeoBD2kp</string>
+    <!-- <string name="facebook_app_id">296783282447069</string>
+    <string name="facebook_client_token">EWFgvcHyCERek0BiF7oYE82KkY</string> -->
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>
